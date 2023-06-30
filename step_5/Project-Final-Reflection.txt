@@ -1,0 +1,3 @@
+I am proud of how the first project turned out. I learned a lot about the Azure Cognitive Service and was able to apply what I learned in class to the project. I really enjoyed the Passport Kiosk Project. 
+But I ran into the "Limited Access" problem with the Face API. I sent an email to Microsoft Team for requesting an unlimited access to Azure Face API. 
+If I could do anything differently, I would have started working on the project earlier so that we could have had more time to refine our ideas and make sure everything was perfect.
